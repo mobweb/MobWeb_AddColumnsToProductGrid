@@ -1,0 +1,6 @@
+app/code/local/MobWeb/AddColumnsToProductGrid app/code/local/MobWeb/AddColumnsToProductGrid/
+
+app/etc/modules/MobWeb_AddColumnsToProductGrid.xml app/etc/modules/MobWeb_AddColumnsToProductGrid.xml
+
+# Clear the cache
+@shell   rm -rf $PROJECT/var/cache/* && echo "Magento Cache cleared"
