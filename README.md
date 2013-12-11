@@ -1,6 +1,6 @@
 # MobWeb_AddColumnsToProductGrid extension for Magento
 
-Use this extension to add columns to the customer grid. Note: This does not add any configuration options. Columns need to be added to the grid by modifying the code of this extension. The "company" column is added by default.
+Use this extension to add columns to the products grid. Note: This does not add any configuration options. Columns need to be added to the grid by modifying the code of this extension.
 
 ## Installation
 
